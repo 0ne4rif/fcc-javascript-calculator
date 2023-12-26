@@ -22,9 +22,9 @@ Shoutout to Landon Schlangen for his tutorial. You may watch it here: [https://w
 ### Additional Notes
 
 In this project, I utilized CSS Grid instead of Bootstrap Grid (Rows and Columns). \
-You may read further about it here: \ 
-### CSS Grid Guide [https://css-tricks.com/snippets/css/complete-guide-grid/](https://css-tricks.com/snippets/css/complete-guide-grid/) \
-I still struggled after reading and I found this awesome CSS Grid generator by Sarah Drasner which you can try here: \
+You may read further about it here:  
+### CSS Grid Guide [https://css-tricks.com/snippets/css/complete-guide-grid/](https://css-tricks.com/snippets/css/complete-guide-grid/) 
+I still struggled after reading and I found this awesome CSS Grid generator by Sarah Drasner which you can try here: 
 ### CSS Grid Generator [https://cssgrid-generator.netlify.app/](https://cssgrid-generator.netlify.app/)
 
 
